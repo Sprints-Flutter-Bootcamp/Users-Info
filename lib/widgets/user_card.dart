@@ -23,7 +23,7 @@ Widget UserCard({required UserModel user}) {
       ListTile(
         leading: const Icon(Icons.web),
         title: Text("Company: ${user.company.name}"),
-        subtitle: Text("Website: ${user.company.name}"),
+        subtitle: Text("Website: ${user.website}"),
       ),
     ]),
   );

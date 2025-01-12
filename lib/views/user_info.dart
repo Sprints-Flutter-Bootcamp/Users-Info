@@ -25,7 +25,17 @@ class _UserInfoState extends State<UserInfo> {
       body: Padding(
         padding: const EdgeInsets.all(20.0),
         child: Center(
-          child: UserCard(user: widget.UserData),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.start,
+            children: [
+              Icon(
+                Icons.account_circle,
+                size: 150,
+                color: Colors.blue,
+              ),
+              UserCard(user: widget.UserData),
+            ],
+          ),
         ),
       ),
     );
