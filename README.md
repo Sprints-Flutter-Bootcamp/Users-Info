@@ -29,10 +29,22 @@ JSON response is parsed into a User Model for easier data manipulation.
 
 ## App screen-shots
 ### Home page
-![home-page](r1-image.png)
+<img src="r0-image.png" alt="Light Theme" height="400">
+
 
 <br>
 <br>
 
 ### User Info page
-![user-info-page](r2-image.png)
+<img src="r3-image.png" alt="Light Theme" height="400">
+
+<br>
+<br>
+<br>
+
+# Major Update!
+## Added firebase firestore functionality with the old API task
+
+<img src="r1-image.png" alt="Light Theme" height="400">
+<img src="r4-image.png" alt="Light Theme" height="300">
+<img src="r2-image.png" alt="Light Theme" height="400">

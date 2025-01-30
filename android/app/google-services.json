@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94930574250",
+    "project_id": "users-management-d91d0",
+    "storage_bucket": "users-management-d91d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94930574250:android:842597457cbc653576a9d3",
+        "android_client_info": {
+          "package_name": "com.example.empm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCfINcj_vE5HmHgoTyr4gJhnf735JQWYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
