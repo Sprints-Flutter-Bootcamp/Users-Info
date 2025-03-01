@@ -72,7 +72,7 @@ class _UsersFirebaseState extends State<UsersFirebase> {
                               leading: const Icon(Icons.person),
                               title: Text(users[index].name ?? "No Name"),
                               subtitle: Text(users[index].email ?? "No Email"),
-                              trailing: const Icon(Icons.arrow_forward_ios),
+                              // trailing: const Icon(Icons.arrow_forward_ios),
                             ),
                           ),
                         ),
